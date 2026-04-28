@@ -1,7 +1,7 @@
 # PlantsVsZombies
 Primera practica de TP1
 
-Member: Ziteng, Xinyang
+Member:Xinyang, Ziteng
 
 PlantsVsZombies 1.0
 
